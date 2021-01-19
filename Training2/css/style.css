@@ -1,0 +1,30 @@
+div{
+    background-color: aquamarine;
+
+    margin: 5px;
+    padding: 5px;
+    color: brown;
+}
+.container{
+background-color: darkgray;
+width: 120px;
+height: 350px;
+}
+
+.item{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#box1 {
+    background-color: red;
+}
+
+#box2 {
+    background-color: yellow;
+}
+
+#box3 {
+    background-color: green;
+}
