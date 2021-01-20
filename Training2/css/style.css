@@ -1,3 +1,6 @@
+table, td{
+    border: 1px solid gray;
+}
 div{
     background-color: aquamarine;
 
@@ -17,14 +20,14 @@ height: 350px;
     border-radius: 50%;
 }
 
-#box1 {
+#box1, #box4 {
     background-color: red;
 }
 
-#box2 {
+#box2, #box5 {
     background-color: yellow;
 }
 
-#box3 {
+#box3, #box6 {
     background-color: green;
 }
