@@ -14,3 +14,7 @@ th{
 td{
     border: 1px solid lightgray;
 }
+.textstyle{
+    color: blue;
+    text-decoration: underline;
+}
