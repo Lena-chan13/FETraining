@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+}
+.header{
+    background-color: aquamarine;
+    height: 50px;
+}
+.nav{
+    background-color: cadetblue;
+    height: 40px;
+}
+.footer{
+    background-color: darkcyan;
+    height: 30px;
+}
+.main{
+display: flex;
+}
+#sidebar, #aside{
+background-color: darkolivegreen;
+height: 300px;
+width: 20%;
+}
+#content{
+background-color: darkseagreen;
+height: 300px;
+width: 60%;
+}
