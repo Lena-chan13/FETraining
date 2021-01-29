@@ -1,7 +1,3 @@
-.title{
-    font-weight: bold;
-    font-size: 36px;
-}
 table{
     border-collapse: collapse;
     border:2px solid black;
@@ -12,9 +8,4 @@ th{
     border: 1px solid black;
 }
 td{
-    border: 1px solid lightgray;
-}
-.textstyle{
-    color: blue;
-    text-decoration: underline;
-}
+    border: 1px solid lightgray;}
